@@ -58,3 +58,49 @@ Just like satellites observing Earth, OrbitClock continuously “monitors” you
 | [Code](./Code) | Arduino sketch for NTP time sync and sensor data display. |
 
 ---
+
+## 🪛 Setup & Upload
+
+1. Open the `.ino` file in **Arduino IDE**.  
+2. Select **DFRobot FireBeetle ESP32-C6** as the board.  
+3. Install required libraries:  
+   - `WiFi.h`  
+   - `NTPClient.h`  
+   - `Adafruit_GFX.h`  
+   - `Adafruit_SSD1306.h`  
+   - `Adafruit_SHTC3.h`  
+4. Enter your **Wi-Fi credentials** in the code.  
+5. Upload and enjoy your space-themed IoT clock!
+
+---
+
+## 🧠 Inspiration
+
+Satellites orbit our planet to maintain global time accuracy — OrbitClock brings that same precision and wonder to your desk.  
+Every time you glance at it, it’s a small reminder of how technology and creativity can orbit together in harmony.
+
+---
+
+## 🏗️ Designed & Built By
+
+**Kishan Pratap Singh**  
+Founder & CEO of **SMART BUILD**
+
+🌐 **Official Links:**  
+- 🔗 [Instructables](https://www.instructables.com/member/Next%20Builder%20DIY/)  
+- 💡 [Hackster.io](https://hackster.io/NEXTBUILDER)  
+- ⚙️ [Hackaday](https://hackaday.io/NextBuilder)  
+- 🤖 [DFRobot Community](https://community.dfrobot.com/user-13435.html)  
+- 🎥 [YouTube – Next Builder](https://youtube.com/@NextBuilder)  
+- 📷 [Instagram – @next_builder](https://instagram.com/next_builder)
+
+---
+
+## 📜 License
+
+This project is open-source under the **MIT License**.  
+You are free to explore, modify, and share your own version of OrbitClock!
+
+---
+
+> 💬 *Share your build — tag me on social media! I’d love to see your version of OrbitClock orbiting your workspace.*
