@@ -21,6 +21,28 @@
   </a>
 </p>
 
+
+<p align="center">
+  <a href="https://youtube.com/@next.builder?si=CYdRbQAZveyQLm3W" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.instructables.com/member/Next%20Builder%20DIY/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instructables-FDBA12?style=flat&logo=instructables&logoColor=black" alt="Instructables"/>
+  </a>
+  <a href="https://hackster.io/NEXTBUILDER" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Hackster.io-2C9AB7?style=flat&logo=hackster&logoColor=white" alt="Hackster.io"/>
+  </a>
+  <a href="https://hackaday.io/NextBuilder" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Hackaday-1A1A1A?style=flat&logo=hackaday&logoColor=white" alt="Hackaday"/>
+  </a>
+  <a href="https://instagram.com/next_builder" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://community.dfrobot.com/user-13435.html" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/DFRobot-FF6C00?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABNElEQVR42mNgGAWjYBSMglEwCqF4BwzA7f9w5eSU+o+I5Yq+Z3wxWZBjM9DfLhGfIgiECuGuGIbFojA/5oYG4YzWpgKAYnUQqjXwYA4SGsTIwMCA5rC0yi+XlZP/j98BOYciODlA+ZK0SYNEQYjBHZoxA64/og10g9NcvL2RlAD6C3Mbw6EFyYdgvCMqI/ehU7E3k8R2VxPgx9vXh/OyU7A24s4DBhZPoQjI5bBSxB/EZSHMB6g1EGUo/h+DNfE/xgxk+FGYLI8nZQwSHn/4yClAIz9AQ5PI9LoQ/AyLxKEbZmcI2A2qfFiZRh4/YgEo3TUAUxjwKokg0HiEzO+oQwNBdxRz/AgAUkI42fCo6RtAAAAAElFTkSuQmCC&logoColor=white" alt="DFRobot Community"/>
+  </a>
+</p>
+
 # 🛰️ OrbitClock – A Mini Satellite-Style Space Clock
 
 > “Inspired by satellites that orbit Earth to keep time in sync — OrbitClock brings space precision to your desk.”
