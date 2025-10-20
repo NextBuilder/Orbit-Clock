@@ -1,21 +1,26 @@
 🌐 **Official Links:**  
+
 <p align="center">
-  <a href="https://youtube.com/@NextBuilder" target="_blank">
+  <a href="https://youtube.com/@next.builder?si=CYdRbQAZveyQLm3W" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://www.instructables.com/member/Next%20Builder%20DIY/" target="_blank">
+  <a href="https://www.instructables.com/member/Next%20Builder%20DIY/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instructables-FDBA12?style=flat-square&logo=instructables&logoColor=black" alt="Instructables"/>
   </a>
-  <a href="https://hackster.io/NEXTBUILDER" target="_blank">
+  <a href="https://hackster.io/NEXTBUILDER" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Hackster.io-2C9AB7?style=flat-square&logo=hackster&logoColor=white" alt="Hackster.io"/>
   </a>
-  <a href="https://hackaday.io/NextBuilder" target="_blank">
+  <a href="https://hackaday.io/NextBuilder" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Hackaday-1A1A1A?style=flat-square&logo=hackaday&logoColor=white" alt="Hackaday"/>
   </a>
-  <a href="https://instagram.com/next_builder" target="_blank">
+  <a href="https://instagram.com/next_builder" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="https://community.dfrobot.com/user-13435.html" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/DFRobot-00AEEF?style=flat-square&logo=robot&logoColor=white" alt="DFRobot Community"/>
+  </a>
 </p>
+
 # 🛰️ OrbitClock – A Mini Satellite-Style Space Clock
 
 > “Inspired by satellites that orbit Earth to keep time in sync — OrbitClock brings space precision to your desk.”
