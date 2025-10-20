@@ -1,3 +1,25 @@
+# 🛰️ OrbitClock
+
+A mini satellite-style IoT clock that blends space tech design with Wi-Fi-powered precision.
+
+<p align="center">
+  <a href="https://youtube.com/@NextBuilder" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-NextBuilder-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.instructables.com/member/Next%20Builder%20DIY/" target="_blank">
+    <img src="https://img.shields.io/badge/Instructables-Next%20Builder-yellow?style=for-the-badge&logo=instructables&logoColor=black" alt="Instructables"/>
+  </a>
+  <a href="https://hackster.io/NEXTBUILDER" target="_blank">
+    <img src="https://img.shields.io/badge/Hackster.io-NEXTBUILDER-blue?style=for-the-badge&logo=hackster&logoColor=white" alt="Hackster.io"/>
+  </a>
+  <a href="https://hackaday.io/NextBuilder" target="_blank">
+    <img src="https://img.shields.io/badge/Hackaday-NextBuilder-black?style=for-the-badge&logo=hackaday&logoColor=white" alt="Hackaday"/>
+  </a>
+  <a href="https://instagram.com/next_builder" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@next__builder-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
 # 🛰️ OrbitClock – A Mini Satellite-Style Space Clock
 
 > “Inspired by satellites that orbit Earth to keep time in sync — OrbitClock brings space precision to your desk.”
