@@ -21,6 +21,8 @@
   </a>
 </p>
 
+---
+
 # 🛰️ OrbitClock – A Mini Satellite-Style Space Clock
 
 > “Inspired by satellites that orbit Earth to keep time in sync — OrbitClock brings space precision to your desk.”
