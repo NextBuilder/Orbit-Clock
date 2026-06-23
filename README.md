@@ -109,7 +109,6 @@ Every time you glance at it, it’s a small reminder of how technology and creat
 ## 🏗️ Designed & Built By
 
 **Kishan Pratap Singh**  
-Founder & CEO of **SMART BUILDX**
 
 ---
 
